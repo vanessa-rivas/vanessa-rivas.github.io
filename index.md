@@ -11,7 +11,7 @@ Repository:
 
 [Repository](https://github.com/vanessa-rivas/vr_repo)
 
-CTBA Matplotlib Graphing Content
+CTBA Matplotlib Graphing Content:
 
 [Matplotlib](/Matplotlib/index.md).
 
